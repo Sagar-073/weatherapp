@@ -17,14 +17,6 @@ h1 {
   color: #fff;
 }
 .container {
-  background-image: url('/nature.png');
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 100vh;
-    color: white;
-    text-align: center;
   display: flex;
   gap: 35px;
   padding: 30px;
